@@ -1,2 +1,2 @@
-FROM jekyll/jekyll:3.2.1
+FROM jekyll/jekyll:latest
 ADD site /srv/jekyll
